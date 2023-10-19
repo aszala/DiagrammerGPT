@@ -1,4 +1,4 @@
-# DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning
+# [DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning](https://diagrammerGPT.github.io/)
 
 Official implementation of **DiagrammerGPT**, a novel two-stage text-to-diagram generation framework that leverages the layout guidance capabilities of LLMs to generate more accurate open-domain, open-platform diagrams.
 
