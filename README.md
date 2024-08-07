@@ -96,9 +96,10 @@ An overview of DiagrammerGPT, our two-stage framework for open-domain, open plat
 If you find our project useful in your research, please cite the following paper:
 
 ```bibtex
-@article{Zala2023DiagrammerGPT,
+@inproceedings{Zala2023DiagrammerGPT,
         author = {Abhay Zala and Han Lin and Jaemin Cho and Mohit Bansal},
         title = {DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning},
-        year = {2023},
+        year = {2024},
+        booktitle = {COLM},
 }
 ```
