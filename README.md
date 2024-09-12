@@ -3,7 +3,7 @@
 Official implementation of **DiagrammerGPT**, a novel two-stage text-to-diagram generation framework that leverages the layout guidance capabilities of LLMs to generate more accurate open-domain, open-platform diagrams.
 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-DiagrammerGPT-orange)](https://arxiv.org/abs/2310.12128) [![ProjectPage](https://img.shields.io/badge/ProjectPage-DiagrammerGPT-green)](https://diagrammerGPT.github.io/)
+[![arXiv](https://img.shields.io/badge/Arxiv-DiagrammerGPT-orange)](https://arxiv.org/abs/2310.12128) [![ProjectPage](https://img.shields.io/badge/ProjectPage-DiagrammerGPT-green)](https://diagrammerGPT.github.io/) [![Dataset](https://img.shields.io/badge/Dataset-AI2DCaption-yellow)](https://huggingface.co/datasets/abhayzala/AI2D-Caption) 
 
 
 
@@ -15,8 +15,8 @@ Official implementation of **DiagrammerGPT**, a novel two-stage text-to-diagram 
 
 ### Code Release Todo List
 - [x] Diagram Plan Generation Source Code
+- [x] AI2D-Caption Dataset Release
 - [ ] Diagram Generation Source Code
-- [ ] AI2D-Caption Dataset Release
 
 <br>
 <img width="800" src="assets/teaser.png"/>
@@ -96,7 +96,7 @@ An overview of DiagrammerGPT, our two-stage framework for open-domain, open plat
 If you find our project useful in your research, please cite the following paper:
 
 ```bibtex
-@inproceedings{Zala2023DiagrammerGPT,
+@inproceedings{Zala2024DiagrammerGPT,
         author = {Abhay Zala and Han Lin and Jaemin Cho and Mohit Bansal},
         title = {DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning},
         year = {2024},
